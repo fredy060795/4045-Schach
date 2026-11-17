@@ -1,0 +1,13 @@
+# Angelegt vom Git-Uploader
+node_modules/
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+npm-debug.log*
+.env
+.env.local
+__pycache__/
+*.pyc
+*.tmp
+~$*
